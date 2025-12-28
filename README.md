@@ -42,28 +42,6 @@ Functions
 
 Menu-Driven Programming
 
-📂 Project Structure
-Contact-Management-System/
-│
-├── contact_management.py   # Main Python program
-├── contacts.txt            # Stores contact data (auto-created)
-└── README.md               # Project documentation
-
-▶ How to Run the Program
-
-Clone the repository
-
-git clone https://github.com/Tanya Merlin-28/contact-management-system.git
-
-
-Navigate to the project folder
-
-cd contact-management-system
-
-
-Run the program
-
-python contact_management.py
 
 🧾 How It Works
 
