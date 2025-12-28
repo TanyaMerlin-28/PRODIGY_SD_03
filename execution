@@ -1,0 +1,67 @@
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 1
+Enter Name: Tanya Merlin
+Enter Phone Number: 9876543210
+Enter Email: tanya@example.com
+✅ Contact added successfully!
+
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 2
+
+1. Tanya Merlin | 9876543210 | tanya@example.com
+
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 3
+
+1. Tanya Merlin | 9876543210 | tanya@example.com
+Enter contact number to edit: 1
+New Name: Tanya M
+New Phone: 9123456780
+New Email: tanyam@example.com
+✏ Contact updated successfully!
+
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 4
+
+1. Tanya M | 9123456780 | tanyam@example.com
+Enter contact number to delete: 1
+🗑 Contact deleted successfully!
+
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 9
+⚠ Invalid option. Try again!
+
+📞 Contact Management System
+1. Add Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Choose an option: 5
+
+👋 Exiting program...
